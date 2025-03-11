@@ -1,9 +1,10 @@
 package main
 
 import (
-	"core"
 	"flag"
 	"fmt"
+
+	"github.com/peitur/gsliinfo/internal/core"
 )
 
 func main() {
